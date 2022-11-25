@@ -1,0 +1,77 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Calculadora",
+            "request": "launch",
+            "mainClass": "Calculadora",
+            "projectName": "tipos-variaveis_97db0529"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Condicionais",
+            "request": "launch",
+            "mainClass": "Condicionais",
+            "projectName": "tipos-variaveis_97db0529"
+        },
+        {
+            "type": "java",
+            "name": "Launch Controle",
+            "request": "launch",
+            "mainClass": "Metodo.Controle",
+            "projectName": "tipos-variaveis_97db0529"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperadoresRelacionais",
+            "request": "launch",
+            "mainClass": "Operadores.OperadoresRelacionais",
+            "projectName": "tipos-variaveis_97db0529"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperadoresTernario",
+            "request": "launch",
+            "mainClass": "Operadores.OperadoresTernario",
+            "projectName": "tipos-variaveis_97db0529"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperadoresUnittarios",
+            "request": "launch",
+            "mainClass": "Operadores.OperadoresUnittarios",
+            "projectName": "tipos-variaveis_97db0529"
+        },
+        {
+            "type": "java",
+            "name": "Launch SobreMim",
+            "request": "launch",
+            "mainClass": "TerminalArgumentos.SobreMim",
+            "projectName": "tipos-variaveis_97db0529"
+        },
+        {
+            "type": "java",
+            "name": "Launch TesteCmd",
+            "request": "launch",
+            "mainClass": "TerminalArgumentos.TesteCmd",
+            "projectName": "tipos-variaveis_97db0529"
+        },
+        {
+            "type": "java",
+            "name": "Launch TiposVariaveis",
+            "request": "launch",
+            "mainClass": "Variaveis.TiposVariaveis",
+            "projectName": "tipos-variaveis_97db0529"
+        }
+    ]
+}
